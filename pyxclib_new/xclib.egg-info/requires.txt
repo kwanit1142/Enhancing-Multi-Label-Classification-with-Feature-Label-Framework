@@ -1,5 +1,0 @@
-numpy
-nmslib
-sklearn
-numba
-fasttext
